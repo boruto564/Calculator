@@ -1,3 +1,3 @@
 # Calculator
  
-https://shatrughan007.github.io/Calculator/
+https://boruto564.github.io/Calculator/
